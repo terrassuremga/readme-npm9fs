@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terrassuremga.github.io/readme-npm9fs/sitemap.xml
